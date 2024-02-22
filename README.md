@@ -28,6 +28,7 @@
 
 - Current version playing: **1.20.1**
 - Preferred modloader: **Forge** (possibly **NeoForge** soon)
+- Current launcher: **~~CurseForge~~** moving to **Modrinth**
 - Favorite modification: **[Create mod](https://github.com/Creators-of-Create/Create)!**
 ---
 ## DISCORD:
