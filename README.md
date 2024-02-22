@@ -4,7 +4,6 @@
 ---
 ## GENERAL INFO:
 - Name: **Vladislav**
-- Age: **15**
 - Country: **Russia**
 - Mastered languages: **RU, EN (US)**
 ---
@@ -27,6 +26,8 @@
 [![Username: - VladisCrafter](https://img.shields.io/badge/Username:-VladisCrafter-0a9950?style=for-the-badge)](https://namemc.com/profile/VladisCrafter.1)
 [![legit copy since: - feb 24, 2021](https://img.shields.io/badge/legit_copy_since:-feb_24%2C_2021-12161a)](https://namemc.com/profile/VladisCrafter.1)
 
+- Current version playing: **1.20.1**
+- Preferred modloader: **Forge** (possibly **NeoForge** soon)
 - Favorite modification: **[Create mod](https://github.com/Creators-of-Create/Create)!**
 ---
 ## DISCORD:
