@@ -38,7 +38,7 @@
 I sometimes translate Minecraft mods, especially Create mod add-ons.
 
 You can check out my 
-[![Crowdin profile](https://img.shields.io/badge/Crowdin_profile-16191d?style=for-the-badge&logo=Crowdin)](https://crowdin.com/profile)
+[![Crowdin profile](https://img.shields.io/badge/Crowdin_profile-16191d?style=for-the-badge&logo=Crowdin)](https://crowdin.com/VladisCrafter)
 
 ### List of all projects I've contributed to by translating:
 1. [Create: Connected](https://github.com/hlysine/create_connected) [![proof](https://img.shields.io/badge/proof-grey?logo=Crowdin)](https://crowdin.com/project/create-connected-mod/reports/top-members)
