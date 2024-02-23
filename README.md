@@ -35,7 +35,21 @@
 `WIP`
 ---
 ## TRANSLATING:
-`WIP`
+I sometimes translate Minecraft mods, especially Create mod add-ons.
+
+You can check out my 
+[![Crowdin profile](https://img.shields.io/badge/Crowdin_profile-16191d?style=for-the-badge&logo=Crowdin)](https://crowdin.com/profile)
+
+### List of all projects I've contributed to by translating:
+1. [Create: Connected](https://github.com/hlysine/create_connected) [![proof](https://img.shields.io/badge/proof-grey?logo=Crowdin)](https://crowdin.com/project/create-connected-mod/reports/top-members)
+2. [Create: Copycats+](https://github.com/copycats-plus/copycats) [![proof](https://img.shields.io/badge/proof-grey?logo=Crowdin)](https://crowdin.com/project/copycats/reports/top-members)
+3. [Steam 'n' Rails](https://github.com/Layers-of-Railways/Railway) [![proof](https://img.shields.io/badge/proof-grey?logo=Crowdin)](https://crowdin.com/project/create-steam-n-rails-official/reports/top-members)
+4. [Create Encased](https://github.com/iglee42/CreateCasing) [![proof](https://img.shields.io/badge/proof-grey?logo=GitHub)](https://github.com/iglee42/CreateCasing/pull/67)
+5. [Sculk Horn](https://github.com/anviaan/SculkHorn) [![proof](https://img.shields.io/badge/proof-grey?logo=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/sculk-horn/files/4450674)
+6. [Isometric Renders]() ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
+7. [DeathLog](https://github.com/gliscowo/deathlog) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
+8. [Interactic](https://github.com/gliscowo/interactic) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
+9. [Infinity Buttons](https://github.com/TeamDiopside/InfinityButtons) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
 ---
 ## MODDING:
 `WIP`
