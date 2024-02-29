@@ -4,6 +4,8 @@
 ---
 ## GENERAL INFO:
 - Name: **Vladislav**
+- Birthday: **March 4**
+- Timezone: **GMT+3**
 - Country: **Russia**
 - Mastered languages: **RU, EN (US)**
 ---
