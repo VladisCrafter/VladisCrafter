@@ -57,6 +57,11 @@ You can check out my
 2. [DeathLog](https://github.com/gliscowo/deathlog) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
 3. [Interactic](https://github.com/gliscowo/interactic) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
 4. [Infinity Buttons](https://github.com/TeamDiopside/InfinityButtons) ![planned](https://img.shields.io/badge/planned-grey?logo=GitHub)
+
+You can actually __order__ a translation - hit me with a dm on Discord (username: @vladiscrafter)!
+
+*If I really like the project... I may even do that for free! 😉*
+
 ---
 ## MODDING:
 `WIP`
